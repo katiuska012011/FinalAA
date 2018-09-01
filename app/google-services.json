@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "467076037611",
+    "firebase_url": "https://finaldeandroida.firebaseio.com",
+    "project_id": "finaldeandroida",
+    "storage_bucket": "finaldeandroida.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467076037611:android:d3970c9a4561afc2",
+        "android_client_info": {
+          "package_name": "com.example.katiuskagonzalez.finalaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467076037611-89co90tcfjgtgo8fq1l54b3s8skh5i3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvXltmQBgRZLE73m6YFRMuJlq1qFFmFNQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467076037611:android:e7746df5797efaf9",
+        "android_client_info": {
+          "package_name": "com.katiuska"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467076037611-89co90tcfjgtgo8fq1l54b3s8skh5i3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvXltmQBgRZLE73m6YFRMuJlq1qFFmFNQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
